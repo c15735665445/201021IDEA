@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("145");
 
         System.out.println("conflict    BBB");
+
+        System.out.println("conflict    AAA");
     }
 }
